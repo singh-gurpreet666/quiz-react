@@ -1,0 +1,522 @@
+{
+  "quiz": [
+    {
+      "question": "What does HTML stand for?",
+      "options": ["Hyper Text Markup Language", "Highly Typed Machine Learning", "Home Tool Markup Language", "Hyperlink and Text Management Language"],
+      "correctAnswer": "Hyper Text Markup Language",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a valid HTML5 semantic element?",
+      "options": ["<div>", "<span>", "<header>", "<b>"],
+      "correctAnswer": "<header>",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the HTML <form> element?",
+      "options": ["To define a section in a document", "To create a hyperlink", "To create a navigation menu", "To collect user input"],
+      "correctAnswer": "To collect user input",
+      "category": "Web Development"
+    },
+    {
+      "question": "What does CSS stand for in web development?",
+      "options": ["Cascading Style Sheet", "Computer Style Sheet", "Colorful Style Sheet", "Creative Style Sheet"],
+      "correctAnswer": "Cascading Style Sheet",
+      "category": "Web Development"
+    },
+    {
+      "question": "In JavaScript, what is a variable?",
+      "options": ["A reserved keyword", "A container for storing data values", "A mathematical operation", "A conditional statement"],
+      "correctAnswer": "A container for storing data values",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the CSS `display: none;` property?",
+      "options": ["To hide an element", "To show an element", "To change the font size", "To create a border around an element"],
+      "correctAnswer": "To hide an element",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the role of a web browser?",
+      "options": ["To create web pages", "To manage databases", "To view and interact with websites", "To write server-side scripts"],
+      "correctAnswer": "To view and interact with websites",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which programming language is commonly used for building dynamic web pages?",
+      "options": ["C", "Python", "Java", "JavaScript"],
+      "correctAnswer": "JavaScript",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the JavaScript function `parseInt()`?",
+      "options": ["To parse integers from a string", "To concatenate strings", "To convert a string to lowercase", "To create an array"],
+      "correctAnswer": "To parse integers from a string",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is React?",
+      "options": ["A programming language", "A front-end JavaScript library", "A database management system", "A server-side scripting language"],
+      "correctAnswer": "A front-end JavaScript library",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a commonly used version control system for software development?",
+      "options": ["Git", "SVN", "Mercurial", "All of the above"],
+      "correctAnswer": "All of the above",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is Node.js?",
+      "options": ["A front-end framework", "A back-end framework", "A database management system", "A programming language"],
+      "correctAnswer": "A back-end framework",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is Express.js?",
+      "options": ["A front-end framework", "A back-end framework", "A database management system", "A programming language"],
+      "correctAnswer": "A back-end framework",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the HTML `<script>` element?",
+      "options": ["To define a header for a document", "To create a navigation menu", "To include JavaScript code in a document", "To style and layout web pages"],
+      "correctAnswer": "To include JavaScript code in a document",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is NOT a valid CSS property to change the text color?",
+      "options": ["background-color", "font-color", "text-color", "color"],
+      "correctAnswer": "font-color",
+      "category": "Web Development"
+    },
+       {
+      "question": "What is MongoDB?",
+      "options": ["A relational database", "A NoSQL database", "A programming language", "A front-end framework"],
+      "correctAnswer": "A NoSQL database",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a valid way to comment in JavaScript?",
+      "options": ["// This is a comment", "/* This is a comment */", "# This is a comment", "<!-- This is a comment -->"],
+      "correctAnswer": "// This is a comment",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the CSS `box-sizing` property?",
+      "options": ["To set the size of the element's box", "To specify the type of box model", "To control the spacing between elements", "To include or exclude padding and borders in the total width and height of an element"],
+      "correctAnswer": "To include or exclude padding and borders in the total width and height of an element",
+      "category": "Web Development"
+    },
+    {
+      "question": "In web development, what does the term 'HTTP' stand for?",
+      "options": ["HyperText Transfer Protocol", "Highly Trained Text Parser", "HyperText Transfer Process", "Hyperlink and Text Processing"],
+      "correctAnswer": "HyperText Transfer Protocol",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the JavaScript `map()` function?",
+      "options": ["To iterate over an array and modify each element", "To create a new array with the results of calling a provided function on every element", "To remove elements from an array", "To check if every element in an array passes a test"],
+      "correctAnswer": "To create a new array with the results of calling a provided function on every element",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a valid HTML attribute for adding inline styles?",
+      "options": ["style", "class", "src", "alt"],
+      "correctAnswer": "style",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the HTML `<nav>` element?",
+      "options": ["To define a sidebar or related content", "To create a navigation menu", "To define the main content of the page", "To contain metadata about the document"],
+      "correctAnswer": "To create a navigation menu",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the JavaScript `setTimeout()` function?",
+      "options": ["To set the timeout for a webpage", "To delay the execution of a function", "To create a new HTML element", "To fetch data from an API"],
+      "correctAnswer": "To delay the execution of a function",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a front-end JavaScript library?",
+      "options": ["Node.js", "React", "Express", "Django"],
+      "correctAnswer": "React",
+      "category": "Web Development"
+    },
+    {
+      "question": "In CSS, what property is used to change the font size of an element?",
+      "options": ["font-family", "font-size", "font-weight", "text-size"],
+      "correctAnswer": "font-size",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the JavaScript `fetch()` function?",
+      "options": ["To create a new HTML element", "To handle events on HTML elements", "To perform AJAX requests and fetch data from APIs", "To add event listeners to HTML elements"],
+      "correctAnswer": "To perform AJAX requests and fetch data from APIs",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a commonly used database in conjunction with Node.js?",
+      "options": ["MySQL", "SQLite", "MongoDB", "PostgreSQL"],
+      "correctAnswer": "MongoDB",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the HTML `<article>` element?",
+      "options": ["To define a sidebar or related content", "To create a navigation menu", "To define the main content of the page", "To represent a self-contained piece of content that could be distributed and reused independently"],
+      "correctAnswer": "To represent a self-contained piece of content that could be distributed and reused independently",
+      "category": "Web Development"
+    },
+    {
+      "question": "In React, what is a state?",
+      "options": ["A built-in JavaScript object", "A variable that is passed between components", "A reserved keyword", "An object that represents the parts of the application that can change"],
+      "correctAnswer": "An object that represents the parts of the application that can change",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the CSS `margin` property?",
+      "options": ["To control the space between elements", "To set the background color of an element", "To define the font size", "To create a border around an element"],
+      "correctAnswer": "To control the space between elements",
+      "category": "Web Development"
+    },
+        {
+      "question": "In Express.js, what is middleware?",
+      "options": ["A front-end framework", "A back-end framework", "A function that has access to the request and response objects", "A database management system"],
+      "correctAnswer": "A function that has access to the request and response objects",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the CSS `flexbox` layout?",
+      "options": ["To create responsive designs", "To style and layout web pages", "To define the main content of the page", "To create a navigation menu"],
+      "correctAnswer": "To create responsive designs",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is used to define a constant variable in JavaScript?",
+      "options": ["let", "var", "const", "define"],
+      "correctAnswer": "const",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the HTML `<canvas>` element?",
+      "options": ["To define a sidebar or related content", "To create a navigation menu", "To define the main content of the page", "To draw graphics and animations on a web page"],
+      "correctAnswer": "To draw graphics and animations on a web page",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is NOT a valid event in JavaScript?",
+      "options": ["click", "hover", "keydown", "submit"],
+      "correctAnswer": "hover",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the CSS `position` property?",
+      "options": ["To control the space between elements", "To set the background color of an element", "To define the font size", "To control the position of an element"],
+      "correctAnswer": "To control the position of an element",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the JavaScript `map()` function?",
+      "options": ["To iterate over an array and modify each element", "To create a new array with the results of calling a provided function on every element", "To remove elements from an array", "To check if every element in an array passes a test"],
+      "correctAnswer": "To create a new array with the results of calling a provided function on every element",
+      "category": "Web Development"
+    },
+    {
+      "question": "In React, what is the Virtual DOM?",
+      "options": ["A lightweight version of the Document Object Model (DOM)", "A JavaScript object that represents the current state of the application", "A browser-specific implementation of the Document Object Model", "A virtual reality version of the Document Object Model"],
+      "correctAnswer": "A lightweight version of the Document Object Model (DOM)",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the HTML `<meta>` element?",
+      "options": ["To create a navigation menu", "To define the main content of the page", "To contain metadata about the document", "To set the background color of an element"],
+      "correctAnswer": "To contain metadata about the document",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is used to create a function in JavaScript?",
+      "options": ["function()", "def", "createFunction()", "func"],
+      "correctAnswer": "function()",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the CSS `box-shadow` property?",
+      "options": ["To create a border around an element", "To add space around an element", "To set the background color of an element", "To add a shadow to an element"],
+      "correctAnswer": "To add a shadow to an element",
+      "category": "Web Development"
+    },
+    {
+      "question": "In web development, what is a callback function?",
+      "options": ["A function that calls another function", "A function that is executed after another function has finished", "A function that returns a value", "A function that creates an alert"],
+      "correctAnswer": "A function that is executed after another function has finished",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the JavaScript `addEventListener()` method?",
+      "options": ["To add a new HTML element", "To remove an HTML element", "To handle events on HTML elements", "To change the font size"],
+      "correctAnswer": "To handle events on HTML elements",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is NOT a valid HTML tag?",
+      "options": ["<img>", "<div>", "<section>", "<circle>"],
+      "correctAnswer": "<circle>",
+      "category": "Web Development"
+    },    {
+      "question": "In Express.js, what is middleware?",
+      "options": ["A front-end framework", "A back-end framework", "A function that has access to the request and response objects", "A database management system"],
+      "correctAnswer": "A function that has access to the request and response objects",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the HTML `<footer>` element?",
+      "options": ["To define a sidebar or related content", "To create a navigation menu", "To define the main content of the page", "To represent the footer of a section or page"],
+      "correctAnswer": "To represent the footer of a section or page",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a valid way to include external CSS in an HTML document?",
+      "options": ["<style> tag in the head section", "Inline style attribute", "<link> tag in the head section", "<css> tag in the body section"],
+      "correctAnswer": "<link> tag in the head section",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the JavaScript `typeof` operator?",
+      "options": ["To check the type of a variable or expression", "To create a new variable", "To perform arithmetic operations", "To define a function"],
+      "correctAnswer": "To check the type of a variable or expression",
+      "category": "Web Development"
+    },
+    {
+      "question": "In React, what is the Virtual DOM?",
+      "options": ["A representation of the actual DOM in memory", "A virtual representation of the React components", "A feature for handling routing in React applications", "A special DOM for virtual reality applications"],
+      "correctAnswer": "A representation of the actual DOM in memory",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which CSS property is used to change the background color of an element?",
+      "options": ["background-color", "color", "font-color", "text-color"],
+      "correctAnswer": "background-color",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the HTML `<aside>` element?",
+      "options": ["To define a sidebar or related content", "To create a navigation menu", "To define the main content of the page", "To represent content that is tangentially related to the content around it"],
+      "correctAnswer": "To represent content that is tangentially related to the content around it",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a valid way to declare a JavaScript variable?",
+      "options": ["#var myVar;", "let myVar;", "myVar = 10;", "$myVar = 10;"],
+      "correctAnswer": "let myVar;",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the CSS `flexbox` layout?",
+      "options": ["To create a border around an element", "To control the space between elements", "To define the font size", "To create a flexible and efficient layout structure"],
+      "correctAnswer": "To create a flexible and efficient layout structure",
+      "category": "Web Development"
+    },
+    {
+      "question": "In Node.js, what is the purpose of the `require()` function?",
+      "options": ["To include external JavaScript files", "To declare a new variable", "To handle HTTP requests", "To include modules and files in a Node.js application"],
+      "correctAnswer": "To include modules and files in a Node.js application",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the CSS `padding` property?",
+      "options": ["To control the space between elements", "To set the background color of an element", "To define the font size", "To add space inside an element"],
+      "correctAnswer": "To add space inside an element",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a NoSQL database?",
+      "options": ["MySQL", "SQLite", "MongoDB", "PostgreSQL"],
+      "correctAnswer": "MongoDB",
+      "category": "Web Development"
+    },
+    {
+      "question": "In JavaScript, what is the purpose of the `map()` function?",
+      "options": ["To iterate over an array and modify each element", "To create a new array with the results of calling a provided function on every element", "To remove elements from an array", "To check if every element in an array passes a test"],
+      "correctAnswer": "To create a new array with the results of calling a provided function on every element",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a commonly used version control system for software development?",
+      "options": ["Git", "SVN", "Mercurial", "All of the above"],
+      "correctAnswer": "All of the above",
+      "category":"Web Development"
+    },
+    {
+      "question": "What is React?",
+      "options": ["A programming language", "A back-end framework", "A front-end JavaScript library", "A database management system"],
+      "correctAnswer": "A front-end JavaScript library",
+      "category": "Web Development"
+    },
+    {
+      "question": "In React, what is the purpose of state?",
+      "options": ["To store data that can change over time", "To manage server-side operations", "To define the structure of a component", "To handle routing in the application"],
+      "correctAnswer": "To store data that can change over time",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is JSX in the context of React?",
+      "options": ["JavaScript XML", "JavaScript XML Styles", "JavaScript Extensible", "JavaScript External"],
+      "correctAnswer": "JavaScript XML",
+      "category": "Web Development"
+    },
+    {
+      "question": "In React, what is a prop?",
+      "options": ["A reserved keyword", "A function that modifies state", "An HTML element", "A special keyword for loops"],
+      "correctAnswer": "A reserved keyword",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the React `useEffect` hook?",
+      "options": ["To manage state in a functional component", "To perform side effects in a functional component", "To create reusable components", "To handle HTTP requests in a component"],
+      "correctAnswer": "To perform side effects in a functional component",
+      "category": "Web Development"
+    },
+    {
+      "question": "In React, what is a functional component?",
+      "options": ["A component without any state or lifecycle methods", "A component written in a functional programming language", "A component that only renders once", "A component with a specific structure"],
+      "correctAnswer": "A component without any state or lifecycle methods",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the React `props.children` property?",
+      "options": ["To access the parent component's state", "To pass data between sibling components", "To access the child components", "To access and render the content between the opening and closing tags of a component"],
+      "correctAnswer": "To access and render the content between the opening and closing tags of a component",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the significance of the React `key` prop when rendering a list of components?",
+      "options": ["It defines the color of the components", "It provides a unique identifier for each component in the list", "It sets the font size of the components", "It controls the visibility of the components"],
+      "correctAnswer": "It provides a unique identifier for each component in the list",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the React `useState` hook?",
+      "options": ["To create a new state variable", "To handle HTTP requests in a component", "To define the structure of a component", "To create reusable components"],
+      "correctAnswer": "To create a new state variable",
+      "category": "Web Development"
+    },
+    {
+      "question": "In React, what is a controlled component?",
+      "options": ["A component that is difficult to control", "A component that relies on external libraries for state management", "A component where form elements like inputs are controlled by React state", "A component with no state or props"],
+      "correctAnswer": "A component where form elements like inputs are controlled by React state",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is Node.js?",
+      "options": [
+        "A front-end JavaScript library",
+        "A back-end framework",
+        "A database management system",
+        "A programming language"
+      ],
+      "correctAnswer": "A back-end framework",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which runtime environment is used by Node.js?",
+      "options": [
+        "V8",
+        "SpiderMonkey",
+        "Chakra",
+        "Rhino"
+      ],
+      "correctAnswer": "V8",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is npm?",
+      "options": [
+        "Node Package Manager",
+        "Node Project Manager",
+        "Node Programming Module",
+        "Node Package Module"
+      ],
+      "correctAnswer": "Node Package Manager",
+      "category": "Web Development"
+    },
+    {
+      "question": "How can you handle asynchronous operations in Node.js?",
+      "options": [
+        "Using callbacks",
+        "Using promises",
+        "Using async/await",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which module is used for creating a web server in Node.js?",
+      "options": [
+        "fs",
+        "http",
+        "url",
+        "querystring"
+      ],
+      "correctAnswer": "http",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the 'express' module in Node.js?",
+      "options": [
+        "To handle file system operations",
+        "To create a web server",
+        "To manage dependencies",
+        "To build user interfaces"
+      ],
+      "correctAnswer": "To create a web server",
+      "category": "Web Development"
+    },
+    {
+      "question": "How can you install external modules in a Node.js project?",
+      "options": [
+        "Using npm install",
+        "Using git clone",
+        "Using node install",
+        "Using require"
+      ],
+      "correctAnswer": "Using npm install",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the 'fs' module in Node.js?",
+      "options": [
+        "To create a web server",
+        "To handle file system operations",
+        "To make HTTP requests",
+        "To manipulate databases"
+      ],
+      "correctAnswer": "To handle file system operations",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a popular framework built on top of Node.js for building web applications?",
+      "options": [
+        "Angular",
+        "Vue.js",
+        "Express",
+        "React"
+      ],
+      "correctAnswer": "Express",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the 'url' module in Node.js?",
+      "options": [
+        "To handle file system operations",
+        "To create a web server",
+        "To parse URLs",
+        "To manipulate databases"
+      ],
+      "correctAnswer": "To parse URLs",
+      "category": "Web Development"
+    }
+  ]
+}
+
