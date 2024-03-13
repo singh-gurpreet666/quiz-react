@@ -3,10 +3,8 @@ import './App.css';
 import Quiz from './component/quiz'
 import NavBar from './component/NavBar';
 import {
-  BrowserRouter as Router,
   Routes,
   Route,
-  Link
 } from "react-router-dom";
 import About from './component/About';
 import Home from './component/Home';
@@ -25,7 +23,6 @@ function App() {
 
   return (
     <div className="App">
-      <Router>
       <NavBar />
       <Routes>
         <Route path="/" element = {<Home key ="home"/>}></Route>
@@ -35,9 +32,6 @@ function App() {
           <Route path="/computernetworks" element ={<Quiz key='computernetwork' category='Computer Network' />} exact></Route>
           <Route path="/operatingsystem" element ={<Quiz key='operatingsystem' category='Operating System' />} exact></Route>
       </Routes>
-
-
-      </Router>
     </div>
   );
 }

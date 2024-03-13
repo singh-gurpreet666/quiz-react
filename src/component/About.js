@@ -34,8 +34,8 @@ const About = () => {
 
       <p>Gurpreet Singh<br />
       gurpreetgolu31@gmail.com<br />
-      <a href='https://github.com/singh-gurpreet666' target='_blank' >GitHub Profile</a><br/>
-      <a href='https://www.linkedin.com/in/gurpreet-singh-991248298/' target='_blank' >LinkedIn Profile</a>
+      <a href='https://github.com/singh-gurpreet666' target='_blank' rel="noreferrer" >GitHub Profile</a><br/>
+      <a href='https://www.linkedin.com/in/gurpreet-singh-991248298/' target='_blank' rel="noreferrer" >LinkedIn Profile</a>
       </p>
         </div>
     </div>
