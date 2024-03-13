@@ -1,6 +1,9 @@
 .App {
   text-align: center;
+  height: 95vh;
+  width: 95vw;
 }
+
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +38,148 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.quiz-question-container {
+  /* height: 100vh;
+  width: 100vw; */
+  margin-top: 60px;
+  text-align: center;
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.quiz-question {
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.quiz-option {
+  margin: 5px;
+  padding: 10px;
+  width: 150px;
+  background-color: #1c8aca;
+  color:white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.options-container{
+  display: flex;
+  flex-wrap:wrap;
+  /* align-items: center; */
+  /* padding-left: 20px; */
+}
+.quiz-option.selected {
+  background-color: #ffcc00;
+  /* Change this to your desired background color */
+  color: #000;
+  /* Change this to your desired text color */
+}
+.soo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  margin-top: 80px;
+}
+
+
+
+
+
+.container {
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 100px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #007bff;
+  margin-bottom: 20px;
+}
+
+p {
+  color: #555;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.category-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.category-card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.3s;
+}
+
+.category-card:hover {
+  transform: scale(1.05);
+}
+
+.category-image {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+
+.category-info {
+  padding: 15px;
+}
+
+.category-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.category-button:hover {
+  background-color: #0056b3;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.quiz-completed {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.score-message {
+  font-size: 20px;
+  color: #007bff;
+  /* You can choose a color that fits your design */
+  margin-top: 10px;
+}
+
+h1,h2{
+    color: #007bff;
 }

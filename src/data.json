@@ -1,0 +1,1500 @@
+{
+  "quiz": [
+    {
+      "question": "What does HTML stand for?",
+      "options": ["Hyper Text Markup Language", "Highly Typed Machine Learning", "Home Tool Markup Language", "Hyperlink and Text Management Language"],
+      "correctAnswer": "Hyper Text Markup Language",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a valid HTML5 semantic element?",
+      "options": ["<div>", "<span>", "<header>", "<b>"],
+      "correctAnswer": "<header>",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the HTML <form> element?",
+      "options": ["To define a section in a document", "To create a hyperlink", "To create a navigation menu", "To collect user input"],
+      "correctAnswer": "To collect user input",
+      "category": "Web Development"
+    },
+    {
+      "question": "What does CSS stand for in web development?",
+      "options": ["Cascading Style Sheet", "Computer Style Sheet", "Colorful Style Sheet", "Creative Style Sheet"],
+      "correctAnswer": "Cascading Style Sheet",
+      "category": "Web Development"
+    },
+    {
+      "question": "In JavaScript, what is a variable?",
+      "options": ["A reserved keyword", "A container for storing data values", "A mathematical operation", "A conditional statement"],
+      "correctAnswer": "A container for storing data values",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the CSS `display: none;` property?",
+      "options": ["To hide an element", "To show an element", "To change the font size", "To create a border around an element"],
+      "correctAnswer": "To hide an element",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the role of a web browser?",
+      "options": ["To create web pages", "To manage databases", "To view and interact with websites", "To write server-side scripts"],
+      "correctAnswer": "To view and interact with websites",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which programming language is commonly used for building dynamic web pages?",
+      "options": ["C", "Python", "Java", "JavaScript"],
+      "correctAnswer": "JavaScript",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the JavaScript function `parseInt()`?",
+      "options": ["To parse integers from a string", "To concatenate strings", "To convert a string to lowercase", "To create an array"],
+      "correctAnswer": "To parse integers from a string",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is React?",
+      "options": ["A programming language", "A front-end JavaScript library", "A database management system", "A server-side scripting language"],
+      "correctAnswer": "A front-end JavaScript library",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a commonly used version control system for software development?",
+      "options": ["Git", "SVN", "Mercurial", "All of the above"],
+      "correctAnswer": "All of the above",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is Node.js?",
+      "options": ["A front-end framework", "A back-end framework", "A database management system", "A programming language"],
+      "correctAnswer": "A back-end framework",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is Express.js?",
+      "options": ["A front-end framework", "A back-end framework", "A database management system", "A programming language"],
+      "correctAnswer": "A back-end framework",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the HTML `<script>` element?",
+      "options": ["To define a header for a document", "To create a navigation menu", "To include JavaScript code in a document", "To style and layout web pages"],
+      "correctAnswer": "To include JavaScript code in a document",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is NOT a valid CSS property to change the text color?",
+      "options": ["background-color", "font-color", "text-color", "color"],
+      "correctAnswer": "font-color",
+      "category": "Web Development"
+    },
+       {
+      "question": "What is MongoDB?",
+      "options": ["A relational database", "A NoSQL database", "A programming language", "A front-end framework"],
+      "correctAnswer": "A NoSQL database",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a valid way to comment in JavaScript?",
+      "options": ["// This is a comment", "/* This is a comment */", "# This is a comment", "<!-- This is a comment -->"],
+      "correctAnswer": "// This is a comment",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the CSS `box-sizing` property?",
+      "options": ["To set the size of the element's box", "To specify the type of box model", "To control the spacing between elements", "To include or exclude padding and borders in the total width and height of an element"],
+      "correctAnswer": "To include or exclude padding and borders in the total width and height of an element",
+      "category": "Web Development"
+    },
+    {
+      "question": "In web development, what does the term 'HTTP' stand for?",
+      "options": ["HyperText Transfer Protocol", "Highly Trained Text Parser", "HyperText Transfer Process", "Hyperlink and Text Processing"],
+      "correctAnswer": "HyperText Transfer Protocol",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the JavaScript `map()` function?",
+      "options": ["To iterate over an array and modify each element", "To create a new array with the results of calling a provided function on every element", "To remove elements from an array", "To check if every element in an array passes a test"],
+      "correctAnswer": "To create a new array with the results of calling a provided function on every element",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a valid HTML attribute for adding inline styles?",
+      "options": ["style", "class", "src", "alt"],
+      "correctAnswer": "style",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the HTML `<nav>` element?",
+      "options": ["To define a sidebar or related content", "To create a navigation menu", "To define the main content of the page", "To contain metadata about the document"],
+      "correctAnswer": "To create a navigation menu",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the JavaScript `setTimeout()` function?",
+      "options": ["To set the timeout for a webpage", "To delay the execution of a function", "To create a new HTML element", "To fetch data from an API"],
+      "correctAnswer": "To delay the execution of a function",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a front-end JavaScript library?",
+      "options": ["Node.js", "React", "Express", "Django"],
+      "correctAnswer": "React",
+      "category": "Web Development"
+    },
+    {
+      "question": "In CSS, what property is used to change the font size of an element?",
+      "options": ["font-family", "font-size", "font-weight", "text-size"],
+      "correctAnswer": "font-size",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the JavaScript `fetch()` function?",
+      "options": ["To create a new HTML element", "To handle events on HTML elements", "To perform AJAX requests and fetch data from APIs", "To add event listeners to HTML elements"],
+      "correctAnswer": "To perform AJAX requests and fetch data from APIs",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a commonly used database in conjunction with Node.js?",
+      "options": ["MySQL", "SQLite", "MongoDB", "PostgreSQL"],
+      "correctAnswer": "MongoDB",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the HTML `<article>` element?",
+      "options": ["To define a sidebar or related content", "To create a navigation menu", "To define the main content of the page", "To represent a self-contained piece of content that could be distributed and reused independently"],
+      "correctAnswer": "To represent a self-contained piece of content that could be distributed and reused independently",
+      "category": "Web Development"
+    },
+    {
+      "question": "In React, what is a state?",
+      "options": ["A built-in JavaScript object", "A variable that is passed between components", "A reserved keyword", "An object that represents the parts of the application that can change"],
+      "correctAnswer": "An object that represents the parts of the application that can change",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the CSS `margin` property?",
+      "options": ["To control the space between elements", "To set the background color of an element", "To define the font size", "To create a border around an element"],
+      "correctAnswer": "To control the space between elements",
+      "category": "Web Development"
+    },
+        {
+      "question": "In Express.js, what is middleware?",
+      "options": ["A front-end framework", "A back-end framework", "A function that has access to the request and response objects", "A database management system"],
+      "correctAnswer": "A function that has access to the request and response objects",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the CSS `flexbox` layout?",
+      "options": ["To create responsive designs", "To style and layout web pages", "To define the main content of the page", "To create a navigation menu"],
+      "correctAnswer": "To create responsive designs",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is used to define a constant variable in JavaScript?",
+      "options": ["let", "var", "const", "define"],
+      "correctAnswer": "const",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the HTML `<canvas>` element?",
+      "options": ["To define a sidebar or related content", "To create a navigation menu", "To define the main content of the page", "To draw graphics and animations on a web page"],
+      "correctAnswer": "To draw graphics and animations on a web page",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is NOT a valid event in JavaScript?",
+      "options": ["click", "hover", "keydown", "submit"],
+      "correctAnswer": "hover",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the CSS `position` property?",
+      "options": ["To control the space between elements", "To set the background color of an element", "To define the font size", "To control the position of an element"],
+      "correctAnswer": "To control the position of an element",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the JavaScript `map()` function?",
+      "options": ["To iterate over an array and modify each element", "To create a new array with the results of calling a provided function on every element", "To remove elements from an array", "To check if every element in an array passes a test"],
+      "correctAnswer": "To create a new array with the results of calling a provided function on every element",
+      "category": "Web Development"
+    },
+    {
+      "question": "In React, what is the Virtual DOM?",
+      "options": ["A lightweight version of the Document Object Model (DOM)", "A JavaScript object that represents the current state of the application", "A browser-specific implementation of the Document Object Model", "A virtual reality version of the Document Object Model"],
+      "correctAnswer": "A lightweight version of the Document Object Model (DOM)",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the HTML `<meta>` element?",
+      "options": ["To create a navigation menu", "To define the main content of the page", "To contain metadata about the document", "To set the background color of an element"],
+      "correctAnswer": "To contain metadata about the document",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is used to create a function in JavaScript?",
+      "options": ["function()", "def", "createFunction()", "func"],
+      "correctAnswer": "function()",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the CSS `box-shadow` property?",
+      "options": ["To create a border around an element", "To add space around an element", "To set the background color of an element", "To add a shadow to an element"],
+      "correctAnswer": "To add a shadow to an element",
+      "category": "Web Development"
+    },
+    {
+      "question": "In web development, what is a callback function?",
+      "options": ["A function that calls another function", "A function that is executed after another function has finished", "A function that returns a value", "A function that creates an alert"],
+      "correctAnswer": "A function that is executed after another function has finished",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the JavaScript `addEventListener()` method?",
+      "options": ["To add a new HTML element", "To remove an HTML element", "To handle events on HTML elements", "To change the font size"],
+      "correctAnswer": "To handle events on HTML elements",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is NOT a valid HTML tag?",
+      "options": ["<img>", "<div>", "<section>", "<circle>"],
+      "correctAnswer": "<circle>",
+      "category": "Web Development"
+    },    {
+      "question": "In Express.js, what is middleware?",
+      "options": ["A front-end framework", "A back-end framework", "A function that has access to the request and response objects", "A database management system"],
+      "correctAnswer": "A function that has access to the request and response objects",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the HTML `<footer>` element?",
+      "options": ["To define a sidebar or related content", "To create a navigation menu", "To define the main content of the page", "To represent the footer of a section or page"],
+      "correctAnswer": "To represent the footer of a section or page",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a valid way to include external CSS in an HTML document?",
+      "options": ["<style> tag in the head section", "Inline style attribute", "<link> tag in the head section", "<css> tag in the body section"],
+      "correctAnswer": "<link> tag in the head section",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the JavaScript `typeof` operator?",
+      "options": ["To check the type of a variable or expression", "To create a new variable", "To perform arithmetic operations", "To define a function"],
+      "correctAnswer": "To check the type of a variable or expression",
+      "category": "Web Development"
+    },
+    {
+      "question": "In React, what is the Virtual DOM?",
+      "options": ["A representation of the actual DOM in memory", "A virtual representation of the React components", "A feature for handling routing in React applications", "A special DOM for virtual reality applications"],
+      "correctAnswer": "A representation of the actual DOM in memory",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which CSS property is used to change the background color of an element?",
+      "options": ["background-color", "color", "font-color", "text-color"],
+      "correctAnswer": "background-color",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the HTML `<aside>` element?",
+      "options": ["To define a sidebar or related content", "To create a navigation menu", "To define the main content of the page", "To represent content that is tangentially related to the content around it"],
+      "correctAnswer": "To represent content that is tangentially related to the content around it",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a valid way to declare a JavaScript variable?",
+      "options": ["#var myVar;", "let myVar;", "myVar = 10;", "$myVar = 10;"],
+      "correctAnswer": "let myVar;",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the CSS `flexbox` layout?",
+      "options": ["To create a border around an element", "To control the space between elements", "To define the font size", "To create a flexible and efficient layout structure"],
+      "correctAnswer": "To create a flexible and efficient layout structure",
+      "category": "Web Development"
+    },
+    {
+      "question": "In Node.js, what is the purpose of the `require()` function?",
+      "options": ["To include external JavaScript files", "To declare a new variable", "To handle HTTP requests", "To include modules and files in a Node.js application"],
+      "correctAnswer": "To include modules and files in a Node.js application",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the CSS `padding` property?",
+      "options": ["To control the space between elements", "To set the background color of an element", "To define the font size", "To add space inside an element"],
+      "correctAnswer": "To add space inside an element",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a NoSQL database?",
+      "options": ["MySQL", "SQLite", "MongoDB", "PostgreSQL"],
+      "correctAnswer": "MongoDB",
+      "category": "Web Development"
+    },
+    {
+      "question": "In JavaScript, what is the purpose of the `map()` function?",
+      "options": ["To iterate over an array and modify each element", "To create a new array with the results of calling a provided function on every element", "To remove elements from an array", "To check if every element in an array passes a test"],
+      "correctAnswer": "To create a new array with the results of calling a provided function on every element",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a commonly used version control system for software development?",
+      "options": ["Git", "SVN", "Mercurial", "All of the above"],
+      "correctAnswer": "All of the above",
+      "category":"Web Development"
+    },
+    {
+      "question": "What is React?",
+      "options": ["A programming language", "A back-end framework", "A front-end JavaScript library", "A database management system"],
+      "correctAnswer": "A front-end JavaScript library",
+      "category": "Web Development"
+    },
+    {
+      "question": "In React, what is the purpose of state?",
+      "options": ["To store data that can change over time", "To manage server-side operations", "To define the structure of a component", "To handle routing in the application"],
+      "correctAnswer": "To store data that can change over time",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is JSX in the context of React?",
+      "options": ["JavaScript XML", "JavaScript XML Styles", "JavaScript Extensible", "JavaScript External"],
+      "correctAnswer": "JavaScript XML",
+      "category": "Web Development"
+    },
+    {
+      "question": "In React, what is a prop?",
+      "options": ["A reserved keyword", "A function that modifies state", "An HTML element", "A special keyword for loops"],
+      "correctAnswer": "A reserved keyword",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the React `useEffect` hook?",
+      "options": ["To manage state in a functional component", "To perform side effects in a functional component", "To create reusable components", "To handle HTTP requests in a component"],
+      "correctAnswer": "To perform side effects in a functional component",
+      "category": "Web Development"
+    },
+    {
+      "question": "In React, what is a functional component?",
+      "options": ["A component without any state or lifecycle methods", "A component written in a functional programming language", "A component that only renders once", "A component with a specific structure"],
+      "correctAnswer": "A component without any state or lifecycle methods",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the React `props.children` property?",
+      "options": ["To access the parent component's state", "To pass data between sibling components", "To access the child components", "To access and render the content between the opening and closing tags of a component"],
+      "correctAnswer": "To access and render the content between the opening and closing tags of a component",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the significance of the React `key` prop when rendering a list of components?",
+      "options": ["It defines the color of the components", "It provides a unique identifier for each component in the list", "It sets the font size of the components", "It controls the visibility of the components"],
+      "correctAnswer": "It provides a unique identifier for each component in the list",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the React `useState` hook?",
+      "options": ["To create a new state variable", "To handle HTTP requests in a component", "To define the structure of a component", "To create reusable components"],
+      "correctAnswer": "To create a new state variable",
+      "category": "Web Development"
+    },
+    {
+      "question": "In React, what is a controlled component?",
+      "options": ["A component that is difficult to control", "A component that relies on external libraries for state management", "A component where form elements like inputs are controlled by React state", "A component with no state or props"],
+      "correctAnswer": "A component where form elements like inputs are controlled by React state",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is Node.js?",
+      "options": [
+        "A front-end JavaScript library",
+        "A back-end framework",
+        "A database management system",
+        "A programming language"
+      ],
+      "correctAnswer": "A back-end framework",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which runtime environment is used by Node.js?",
+      "options": [
+        "V8",
+        "SpiderMonkey",
+        "Chakra",
+        "Rhino"
+      ],
+      "correctAnswer": "V8",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is npm?",
+      "options": [
+        "Node Package Manager",
+        "Node Project Manager",
+        "Node Programming Module",
+        "Node Package Module"
+      ],
+      "correctAnswer": "Node Package Manager",
+      "category": "Web Development"
+    },
+    {
+      "question": "How can you handle asynchronous operations in Node.js?",
+      "options": [
+        "Using callbacks",
+        "Using promises",
+        "Using async/await",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which module is used for creating a web server in Node.js?",
+      "options": [
+        "fs",
+        "http",
+        "url",
+        "querystring"
+      ],
+      "correctAnswer": "http",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the 'express' module in Node.js?",
+      "options": [
+        "To handle file system operations",
+        "To create a web server",
+        "To manage dependencies",
+        "To build user interfaces"
+      ],
+      "correctAnswer": "To create a web server",
+      "category": "Web Development"
+    },
+    {
+      "question": "How can you install external modules in a Node.js project?",
+      "options": [
+        "Using npm install",
+        "Using git clone",
+        "Using node install",
+        "Using require"
+      ],
+      "correctAnswer": "Using npm install",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the 'fs' module in Node.js?",
+      "options": [
+        "To create a web server",
+        "To handle file system operations",
+        "To make HTTP requests",
+        "To manipulate databases"
+      ],
+      "correctAnswer": "To handle file system operations",
+      "category": "Web Development"
+    },
+    {
+      "question": "Which of the following is a popular framework built on top of Node.js for building web applications?",
+      "options": [
+        "Angular",
+        "Vue.js",
+        "Express",
+        "React"
+      ],
+      "correctAnswer": "Express",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the purpose of the 'url' module in Node.js?",
+      "options": [
+        "To handle file system operations",
+        "To create a web server",
+        "To parse URLs",
+        "To manipulate databases"
+      ],
+      "correctAnswer": "To parse URLs",
+      "category": "Web Development"
+    },
+  {
+    "question": "What is the primary purpose of the OSI model in computer networks?",
+    "options": ["To provide security mechanisms", "To standardize network protocols", "To enhance network speed", "To manage network resources"],
+    "correctAnswer": "To standardize network protocols",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which of the following is not a type of network topology?",
+    "options": ["Star", "Mesh", "Cylinder", "Bus"],
+    "correctAnswer": "Cylinder",
+    "category": "Computer Network"
+  },
+  {
+    "question": "In the TCP/IP model, which layer is responsible for data compression and encryption?",
+    "options": ["Network Layer", "Transport Layer", "Presentation Layer", "Application Layer"],
+    "correctAnswer": "Presentation Layer",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the purpose of ARP (Address Resolution Protocol) in networking?",
+    "options": ["To convert IP addresses to MAC addresses", "To convert domain names to IP addresses", "To route data between networks", "To establish secure connections"],
+    "correctAnswer": "To convert IP addresses to MAC addresses",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which network device operates at the Data Link layer of the OSI model?",
+    "options": ["Hub", "Router", "Switch", "Repeater"],
+    "correctAnswer": "Switch",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the function of DNS (Domain Name System) in computer networks?",
+    "options": ["To convert IP addresses to domain names", "To convert domain names to IP addresses", "To encrypt data transmissions", "To manage network traffic"],
+    "correctAnswer": "To convert domain names to IP addresses",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which protocol is used for secure data transmission over the Internet?",
+    "options": ["FTP (File Transfer Protocol)", "HTTP (Hypertext Transfer Protocol)", "TCP (Transmission Control Protocol)", "HTTPS (Hypertext Transfer Protocol Secure)"],
+    "correctAnswer": "HTTPS (Hypertext Transfer Protocol Secure)",
+    "category": "Computer Network"
+  },
+  {
+    "question": "In networking, what is the purpose of a subnet mask?",
+    "options": ["To identify the network portion of an IP address", "To encrypt data transmissions", "To connect different networks", "To prevent network congestion"],
+    "correctAnswer": "To identify the network portion of an IP address",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the role of a firewall in computer networks?",
+    "options": ["To filter network traffic based on rules", "To boost network speed", "To manage IP addresses", "To establish secure VPN connections"],
+    "correctAnswer": "To filter network traffic based on rules",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which networking device operates at the Network layer of the OSI model?",
+    "options": ["Repeater", "Switch", "Router", "Hub"],
+    "correctAnswer": "Router",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the purpose of ICMP (Internet Control Message Protocol) in networking?",
+    "options": ["To manage IP addresses", "To control internet access", "To diagnose network connectivity issues", "To encrypt data transmissions"],
+    "correctAnswer": "To diagnose network connectivity issues",
+    "category": "Computer Network"
+  },
+  {
+    "question": "In networking, what is the purpose of NAT (Network Address Translation)?",
+    "options": ["To convert domain names to IP addresses", "To route data between networks", "To manage IP addresses dynamically", "To encrypt data transmissions"],
+    "correctAnswer": "To manage IP addresses dynamically",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which protocol is used for email communication over the Internet?",
+    "options": ["SMTP (Simple Mail Transfer Protocol)", "FTP (File Transfer Protocol)", "HTTP (Hypertext Transfer Protocol)", "DHCP (Dynamic Host Configuration Protocol)"],
+    "correctAnswer": "SMTP (Simple Mail Transfer Protocol)",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the significance of the MAC address in computer networks?",
+    "options": ["To identify the network portion of an IP address", "To uniquely identify a network interface card", "To manage IP addresses dynamically", "To encrypt data transmissions"],
+    "correctAnswer": "To uniquely identify a network interface card",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which network topology provides high fault tolerance and redundancy?",
+    "options": ["Bus", "Ring", "Star", "Mesh"],
+    "correctAnswer": "Mesh",
+    "category": "Computer Network"
+  },{
+    "question": "What is the purpose of a DHCP (Dynamic Host Configuration Protocol) in networking?",
+    "options": ["To convert IP addresses to MAC addresses", "To assign IP addresses dynamically", "To encrypt data transmissions", "To manage network security"],
+    "correctAnswer": "To assign IP addresses dynamically",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which layer of the OSI model is responsible for logical addressing?",
+    "options": ["Physical Layer", "Network Layer", "Data Link Layer", "Transport Layer"],
+    "correctAnswer": "Network Layer",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the purpose of a VLAN (Virtual Local Area Network) in networking?",
+    "options": ["To connect different networks", "To filter network traffic", "To segment a network into smaller logical groups", "To manage IP addresses"],
+    "correctAnswer": "To segment a network into smaller logical groups",
+    "category": "Computer Network"
+  },
+  {
+    "question": "In networking, what is the purpose of a proxy server?",
+    "options": ["To encrypt data transmissions", "To manage IP addresses", "To filter and forward network traffic", "To establish secure VPN connections"],
+    "correctAnswer": "To filter and forward network traffic",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the role of a router in a computer network?",
+    "options": ["To connect devices within the same local network", "To connect different networks and route data between them", "To amplify network signals", "To manage IP addresses"],
+    "correctAnswer": "To connect different networks and route data between them",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which type of cable is commonly used for wired Ethernet connections?",
+    "options": ["Coaxial Cable", "Fiber Optic Cable", "Twisted Pair Cable", "USB Cable"],
+    "correctAnswer": "Twisted Pair Cable",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What does the term 'bandwidth' refer to in networking?",
+    "options": ["The speed of data transmission", "The amount of data that can be stored", "The physical size of the network", "The range of network devices"],
+    "correctAnswer": "The speed of data transmission",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which protocol is used for automatically assigning IP addresses in a network?",
+    "options": ["TCP (Transmission Control Protocol)", "UDP (User Datagram Protocol)", "DHCP (Dynamic Host Configuration Protocol)", "DNS (Domain Name System)"],
+    "correctAnswer": "DHCP (Dynamic Host Configuration Protocol)",
+    "category": "Computer Network"
+  },
+  {
+    "question": "In networking, what does the term 'latency' refer to?",
+    "options": ["The time it takes for a signal to travel from source to destination", "The capacity of a network channel", "The number of devices in a network", "The physical distance between network devices"],
+    "correctAnswer": "The time it takes for a signal to travel from source to destination",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which addressing scheme is used by IPv6?",
+    "options": ["32-bit", "64-bit", "128-bit", "256-bit"],
+    "correctAnswer": "128-bit",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the purpose of the DNS (Domain Name System) cache?",
+    "options": ["To store temporary files", "To store IP addresses and corresponding domain names", "To manage network security", "To encrypt data transmissions"],
+    "correctAnswer": "To store IP addresses and corresponding domain names",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which network protocol is used for transferring files between devices on a network?",
+    "options": ["SMTP (Simple Mail Transfer Protocol)", "FTP (File Transfer Protocol)", "HTTP (Hypertext Transfer Protocol)", "DNS (Domain Name System)"],
+    "correctAnswer": "FTP (File Transfer Protocol)",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the purpose of the MAC address in networking?",
+    "options": ["To identify the network portion of an IP address", "To uniquely identify a network interface card", "To manage IP addresses dynamically", "To encrypt data transmissions"],
+    "correctAnswer": "To uniquely identify a network interface card",
+    "category": "Computer Network"
+  },
+  {
+    "question": "In networking, what is a 'subnet'?",
+    "options": ["A network with limited bandwidth", "A portion of a network with its own unique address range", "A network topology", "A type of network cable"],
+    "correctAnswer": "A portion of a network with its own unique address range",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which layer of the OSI model is responsible for error detection and correction?",
+    "options": ["Data Link Layer", "Physical Layer", "Transport Layer", "Network Layer"],
+    "correctAnswer": "Data Link Layer",
+    "category": "Computer Network"
+  },{
+    "question": "What is the purpose of a DNS (Domain Name System) server?",
+    "options": ["To manage IP addresses", "To convert IP addresses to domain names", "To filter network traffic", "To encrypt data transmissions"],
+    "correctAnswer": "To convert IP addresses to domain names",
+    "category": "Computer Network"
+  },
+  {
+    "question": "In networking, what is a 'firewall' used for?",
+    "options": ["To boost network speed", "To manage IP addresses", "To filter and block unauthorized network traffic", "To establish secure VPN connections"],
+    "correctAnswer": "To filter and block unauthorized network traffic",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which of the following is a common protocol for secure communication over a network?",
+    "options": ["HTTP (Hypertext Transfer Protocol)", "FTP (File Transfer Protocol)", "SSH (Secure Shell)", "UDP (User Datagram Protocol)"],
+    "correctAnswer": "SSH (Secure Shell)",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What does the term 'LAN' stand for in networking?",
+    "options": ["Local Area Network", "Large Area Network", "Link Access Node", "Layered Area Network"],
+    "correctAnswer": "Local Area Network",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which of the following is an example of a physical network topology?",
+    "options": ["Ring", "Bus", "Mesh", "Star"],
+    "correctAnswer": "Ring",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the role of a repeater in a network?",
+    "options": ["To connect different networks", "To amplify and extend network signals", "To filter network traffic", "To manage IP addresses"],
+    "correctAnswer": "To amplify and extend network signals",
+    "category": "Computer Network"
+  },
+  {
+    "question": "In networking, what is the purpose of an IP address?",
+    "options": ["To identify the network portion of an address", "To manage IP addresses dynamically", "To uniquely identify a device on a network", "To establish secure connections"],
+    "correctAnswer": "To uniquely identify a device on a network",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the function of a switch in a network?",
+    "options": ["To connect devices within the same local network", "To connect different networks and route data between them", "To filter and forward network traffic based on MAC addresses", "To manage IP addresses"],
+    "correctAnswer": "To filter and forward network traffic based on MAC addresses",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which of the following is a characteristic of a peer-to-peer network?",
+    "options": ["Centralized control", "Client-server architecture", "Shared resources among all nodes", "High security"],
+    "correctAnswer": "Shared resources among all nodes",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the purpose of an HTTP (Hypertext Transfer Protocol) in networking?",
+    "options": ["To encrypt data transmissions", "To transfer files between devices", "To enable secure email communication", "To facilitate communication between web browsers and servers"],
+    "correctAnswer": "To facilitate communication between web browsers and servers",
+    "category": "Computer Network"
+  },
+  {
+    "question": "In networking, what is the purpose of NAT (Network Address Translation)?",
+    "options": ["To convert domain names to IP addresses", "To route data between networks", "To manage IP addresses dynamically", "To encrypt data transmissions"],
+    "correctAnswer": "To manage IP addresses dynamically",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which protocol is used for email communication over the Internet?",
+    "options": ["SMTP (Simple Mail Transfer Protocol)", "FTP (File Transfer Protocol)", "HTTP (Hypertext Transfer Protocol)", "DHCP (Dynamic Host Configuration Protocol)"],
+    "correctAnswer": "SMTP (Simple Mail Transfer Protocol)",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the significance of the MAC address in computer networks?",
+    "options": ["To identify the network portion of an IP address", "To uniquely identify a network interface card", "To manage IP addresses dynamically", "To encrypt data transmissions"],
+    "correctAnswer": "To uniquely identify a network interface card",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which network topology provides high fault tolerance and redundancy?",
+    "options": ["Bus", "Ring", "Star", "Mesh"],
+    "correctAnswer": "Mesh",
+    "category": "Computer Network"
+  },{
+    "question": "Which field in the IP header is used for fragmentation?",
+    "options": ["Checksum", "Time to Live (TTL)", "Identification", "Header Length"],
+    "correctAnswer": "Identification",
+    "category": "Computer Network"
+  },
+  {
+    "question": "In the TCP header, what is the purpose of the SYN flag?",
+    "options": ["Synchronize sequence numbers", "End of the connection", "Acknowledgment", "Reset the connection"],
+    "correctAnswer": "Synchronize sequence numbers",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the maximum number of hosts in a Class C IP address?",
+    "options": ["128", "256", "64K", "2^24"],
+    "correctAnswer": "256",
+    "category": "Computer Network"
+  },
+  {
+    "question": "In an IPv4 address, what does each octet represent?",
+    "options": ["8 bits", "16 bits", "32 bits", "64 bits"],
+    "correctAnswer": "8 bits",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the purpose of the TTL (Time to Live) field in the IP header?",
+    "options": ["To specify the total length of the IP packet", "To set the maximum number of hops a packet can traverse", "To indicate the source IP address", "To identify the destination MAC address"],
+    "correctAnswer": "To set the maximum number of hops a packet can traverse",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which class of IP address is commonly used for multicast addresses?",
+    "options": ["Class A", "Class B", "Class C", "Class D"],
+    "correctAnswer": "Class D",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the purpose of the Window Size field in the TCP header?",
+    "options": ["To identify the destination port", "To specify the maximum segment size", "To manage the flow control of data", "To indicate the source IP address"],
+    "correctAnswer": "To manage the flow control of data",
+    "category": "Computer Network"
+  },
+  {
+    "question": "How many bits are used for the subnet mask in a Class B IP address?",
+    "options": ["8 bits", "16 bits", "24 bits", "32 bits"],
+    "correctAnswer": "16 bits",
+    "category": "Computer Network"
+  },
+  {
+    "question": "In the TCP header, what is the purpose of the ACK flag?",
+    "options": ["Acknowledgment", "Synchronize sequence numbers", "End of the connection", "Reset the connection"],
+    "correctAnswer": "Acknowledgment",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which IP address class uses the first octet for network addressing and the remaining octets for host addressing?",
+    "options": ["Class A", "Class B", "Class C", "Class D"],
+    "correctAnswer": "Class A",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the function of the Urgent Pointer field in the TCP header?",
+    "options": ["To identify the destination port", "To specify the maximum segment size", "To manage the flow control of data", "To indicate the urgent data offset"],
+    "correctAnswer": "To indicate the urgent data offset",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which class of IP address is reserved for loopback testing?",
+    "options": ["Class A", "Class B", "Class C", "Class D"],
+    "correctAnswer": "Class A",
+    "category": "Computer Network"
+  },
+  {
+    "question": "In an IPv4 address, what does the subnet mask represent?",
+    "options": ["Host portion", "Network portion", "Broadcast address", "Default gateway"],
+    "correctAnswer": "Network portion",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the purpose of the FIN (Finish) flag in the TCP header?",
+    "options": ["To indicate the end of the connection", "To synchronize sequence numbers", "To acknowledge received data", "To reset the connection"],
+    "correctAnswer": "To indicate the end of the connection",
+    "category": "Computer Network"
+  },
+  {
+    "question": "How many bits are used for the host portion in a Class C IP address?",
+    "options": ["8 bits", "16 bits", "24 bits", "32 bits"],
+    "correctAnswer": "8 bits",
+    "category": "Computer Network"
+  },{
+    "question": "What is the primary function of a routing algorithm in computer networks?",
+    "options": ["To establish secure connections", "To manage IP addresses", "To determine the optimal path for data transmission", "To synchronize sequence numbers"],
+    "correctAnswer": "To determine the optimal path for data transmission",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which routing algorithm uses a distance vector approach and includes a metric for path cost?",
+    "options": ["Dijkstra's algorithm", "Bellman-Ford algorithm", "Link-state routing", "Flood-fill algorithm"],
+    "correctAnswer": "Bellman-Ford algorithm",
+    "category": "Computer Network"
+  },
+  {
+    "question": "In link-state routing, what information do routers exchange to build a complete network topology?",
+    "options": ["Routing tables", "Distance vectors", "Link-state packets", "Subnet masks"],
+    "correctAnswer": "Link-state packets",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the purpose of the TTL (Time to Live) field in IP packets in the context of routing?",
+    "options": ["To set the maximum number of hops a packet can traverse", "To indicate the source IP address", "To identify the destination MAC address", "To manage network security"],
+    "correctAnswer": "To set the maximum number of hops a packet can traverse",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which type of routing algorithm considers the entire network topology and calculates the best path for each destination?",
+    "options": ["Distance vector routing", "Link-state routing", "Static routing", "Adaptive routing"],
+    "correctAnswer": "Link-state routing",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the purpose of the BGP (Border Gateway Protocol) in internet routing?",
+    "options": ["To determine the optimal path for data transmission", "To synchronize sequence numbers", "To manage IP addresses dynamically", "To exchange routing information between autonomous systems"],
+    "correctAnswer": "To exchange routing information between autonomous systems",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which TCP communication feature ensures reliable and ordered delivery of data?",
+    "options": ["Flow control", "Reliability control", "Error detection", "Connection establishment"],
+    "correctAnswer": "Reliability control",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the purpose of the SYN-ACK sequence in the TCP three-way handshake?",
+    "options": ["To synchronize sequence numbers", "To acknowledge received data", "To establish a connection", "To terminate the connection"],
+    "correctAnswer": "To acknowledge received data",
+    "category": "Computer Network"
+  },
+  {
+    "question": "In TCP communications, what is the function of the sliding window mechanism?",
+    "options": ["To manage the flow control of data", "To identify the destination port", "To specify the maximum segment size", "To indicate the urgent data offset"],
+    "correctAnswer": "To manage the flow control of data",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What role does the ACK flag play in the TCP header?",
+    "options": ["Acknowledgment", "Synchronize sequence numbers", "End of the connection", "Reset the connection"],
+    "correctAnswer": "Acknowledgment",
+    "category": "Computer Network"
+  },
+  {
+    "question": "In TCP communications, what is the purpose of the FIN (Finish) flag?",
+    "options": ["To indicate the end of the connection", "To synchronize sequence numbers", "To acknowledge received data", "To reset the connection"],
+    "correctAnswer": "To indicate the end of the connection",
+    "category": "Computer Network"
+  },
+  {
+    "question": "What is the purpose of the MSS (Maximum Segment Size) field in the TCP header?",
+    "options": ["To manage the flow control of data", "To specify the maximum segment size", "To indicate the urgent data offset", "To establish a connection"],
+    "correctAnswer": "To specify the maximum segment size",
+    "category": "Computer Network"
+  },
+  {
+    "question": "Which TCP option is used to negotiate window size?",
+    "options": ["SACK (Selective Acknowledgment)", "Timestamp", "Window Scale", "URG (Urgent)"],
+    "correctAnswer": "Window Scale",
+    "category": "Computer Network"
+  },
+  {
+    "question": "In TCP communications, what is the role of the sequence number?",
+    "options": ["To manage the flow control of data", "To identify the destination port", "To synchronize sequence numbers", "To indicate the urgent data offset"],
+    "correctAnswer": "To synchronize sequence numbers",
+    "category": "Computer Network"
+  },{
+    "question": "What is a system call in an operating system?",
+    "options": ["A call made by the user to execute a program", "A call made by the operating system to execute a program", "A mechanism for the operating system to interact with the hardware", "A call made by an application to another application"],
+    "correctAnswer": "A mechanism for the operating system to interact with the hardware",
+    "category": "Operating System"
+  },
+  {
+    "question": "Which of the following is not a common category of system calls?",
+    "options": ["Process control", "File manipulation", "Memory management", "Database queries"],
+    "correctAnswer": "Database queries",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the purpose of the 'fork()' system call in Unix-like operating systems?",
+    "options": ["To create a new process", "To terminate a process", "To wait for a process to finish", "To execute a command in the shell"],
+    "correctAnswer": "To create a new process",
+    "category": "Operating System"
+  },
+  {
+    "question": "Which system call is used for opening a file in Unix-like operating systems?",
+    "options": ["create()", "open()", "read()", "write()"],
+    "correctAnswer": "open()",
+    "category": "Operating System"
+  },
+  {
+    "question": "In Unix-like systems, what does the 'exec()' system call do?",
+    "options": ["Terminate the current process", "Execute a new program in the current process", "Open a file for reading", "Create a new process"],
+    "correctAnswer": "Execute a new program in the current process",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the purpose of the 'wait()' system call in Unix-like operating systems?",
+    "options": ["To wait for user input", "To wait for a specified process to finish", "To pause the execution of the current process", "To wait for a signal from another process"],
+    "correctAnswer": "To wait for a specified process to finish",
+    "category": "Operating System"
+  },
+  {
+    "question": "Which system call is used for process termination in Unix-like operating systems?",
+    "options": ["exit()", "terminate()", "kill()", "stop()"],
+    "correctAnswer": "exit()",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the purpose of the 'chmod()' system call in Unix-like operating systems?",
+    "options": ["Change the modification time of a file", "Change the owner of a file", "Change the permissions of a file", "Change the size of a file"],
+    "correctAnswer": "Change the permissions of a file",
+    "category": "Operating System"
+  },
+  {
+    "question": "Which system call is used for creating a new process in Windows operating systems?",
+    "options": ["fork()", "createProcess()", "spawn()", "exec()"],
+    "correctAnswer": "createProcess()",
+    "category": "Operating System"
+  },
+  {
+    "question": "In Linux, what is the system call number for 'open()'?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "2",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the primary purpose of the 'pipe()' system call in Unix-like operating systems?",
+    "options": ["To create a new process", "To create a communication channel between two processes", "To open a file", "To allocate memory for a process"],
+    "correctAnswer": "To create a communication channel between two processes",
+    "category": "Operating System"
+  },
+  {
+    "question": "What does the 'dup()' system call do in Unix-like operating systems?",
+    "options": ["Duplicate a file descriptor", "Delete a file", "Change the permissions of a file", "Execute a new program"],
+    "correctAnswer": "Duplicate a file descriptor",
+    "category": "Operating System"
+  },
+  {
+    "question": "Which system call is used for allocating memory in Unix-like operating systems?",
+    "options": ["malloc()", "allocate()", "memalloc()", "brk()"],
+    "correctAnswer": "brk()",
+    "category": "Operating System"
+  },
+  {
+    "question": "In Windows, what is the system call number for 'createProcess()'?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "4",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the purpose of the 'ioctl()' system call?",
+    "options": ["Input/output control", "Interprocess communication", "I/O redirection", "Inter-thread communication"],
+    "correctAnswer": "Input/output control",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is a page fault in the context of virtual memory?",
+    "options": [
+      "A page is loaded into memory for the first time",
+      "A page is removed from memory",
+      "A page is accessed but not in memory",
+      "A page is corrupted"
+    ],
+    "correctAnswer": "A page is accessed but not in memory",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the role of the scheduler in an operating system?",
+    "options": [
+      "Allocating resources to processes",
+      "Managing file systems",
+      "Handling input/output operations",
+      "Allocating memory to processes"
+    ],
+    "correctAnswer": "Allocating resources to processes",
+    "category": "Operating System"
+  },
+  {
+    "question": "In the context of file systems, what is an inode?",
+    "options": [
+      "An index of file names",
+      "A data block",
+      "A data structure containing file information",
+      "A file descriptor"
+    ],
+    "correctAnswer": "A data structure containing file information",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the purpose of the 'fork()' system call in Unix-like operating systems?",
+    "options": [
+      "Create a new process",
+      "Execute a command",
+      "Terminate a process",
+      "Wait for a child process to exit"
+    ],
+    "correctAnswer": "Create a new process",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the purpose of the 'mutex' in concurrent programming?",
+    "options": [
+      "Ensure mutual exclusion",
+      "Manage memory allocation",
+      "Enable interprocess communication",
+      "Synchronize clock operations"
+    ],
+    "correctAnswer": "Ensure mutual exclusion",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the primary function of the 'swap space' in virtual memory systems?",
+    "options": [
+      "Store temporary files",
+      "Provide additional RAM",
+      "Store pages not currently in use",
+      "Manage process priority"
+    ],
+    "correctAnswer": "Store pages not currently in use",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the purpose of the 'deadlock detection' algorithm?",
+    "options": [
+      "Prevent deadlocks from occurring",
+      "Detect and recover from deadlocks",
+      "Schedule processes to avoid deadlocks",
+      "Allocate resources to prevent deadlocks"
+    ],
+    "correctAnswer": "Detect and recover from deadlocks",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the purpose of the 'fork bomb' in the context of security?",
+    "options": [
+      "Exploit vulnerabilities in the file system",
+      "Launch a denial-of-service attack",
+      "Execute malicious code",
+      "Bypass authentication mechanisms"
+    ],
+    "correctAnswer": "Launch a denial-of-service attack",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the role of the 'superblock' in a file system?",
+    "options": [
+      "Store file names",
+      "Manage disk space allocation",
+      "Contain information about the file system",
+      "Execute system calls"
+    ],
+    "correctAnswer": "Contain information about the file system",
+    "category": "Operating System"
+  },
+  {
+    "question": "How does the 'round-robin' scheduling algorithm work?",
+    "options": [
+      "Assign priority to processes",
+      "Allocate resources based on need",
+      "Share the CPU equally among processes",
+      "Execute processes in a random order"
+    ],
+    "correctAnswer": "Share the CPU equally among processes",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the purpose of the 'thrashing' phenomenon in virtual memory systems?",
+    "options": [
+      "Excessive page swapping, reducing system performance",
+      "Efficient memory utilization",
+      "Optimal page replacement",
+      "Speeding up disk access"
+    ],
+    "correctAnswer": "Excessive page swapping, reducing system performance",
+    "category": "Operating System"
+  },{
+    "question": "What is the difference between preemptive and non-preemptive scheduling algorithms?",
+    "options": [
+      "Preemptive allows a higher-priority task to interrupt a lower-priority task, while non-preemptive does not",
+      "Non-preemptive allows a higher-priority task to interrupt a lower-priority task, while preemptive does not",
+      "Both preemptive and non-preemptive allow any task to interrupt another task",
+      "Neither preemptive nor non-preemptive allows any task to interrupt another task"
+    ],
+    "correctAnswer": "Preemptive allows a higher-priority task to interrupt a lower-priority task, while non-preemptive does not",
+    "category": "Operating System"
+  },
+  {
+    "question": "Explain the concept of 'burst time' in the context of process scheduling.",
+    "options": [
+      "The time taken for a process to complete execution",
+      "The time taken for a process to enter the ready queue",
+      "The time taken for a process to wait in the waiting queue",
+      "The time taken for a process to perform I/O operations"
+    ],
+    "correctAnswer": "The time taken for a process to complete execution",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is 'context switching' in the context of process scheduling?",
+    "options": [
+      "The process of switching between user mode and kernel mode",
+      "The process of switching between different processes or threads",
+      "The process of switching between process states",
+      "The process of switching between primary and secondary memory"
+    ],
+    "correctAnswer": "The process of switching between different processes or threads",
+    "category": "Operating System"
+  },
+  {
+    "question": "Define the 'turnaround time' of a process in the context of scheduling.",
+    "options": [
+      "The time taken for a process to complete execution",
+      "The time taken for a process to enter the ready queue",
+      "The time taken for a process to wait in the waiting queue",
+      "The time taken for a process to perform I/O operations"
+    ],
+    "correctAnswer": "The total time taken by a process, including waiting time and execution time",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the 'waiting time' of a process in the context of scheduling?",
+    "options": [
+      "The time taken for a process to complete execution",
+      "The time taken for a process to enter the ready queue",
+      "The time taken for a process to wait in the waiting queue",
+      "The time taken for a process to perform I/O operations"
+    ],
+    "correctAnswer": "The total time a process spends waiting in the ready queue",
+    "category": "Operating System"
+  },
+  {
+    "question": "Explain the purpose of the 'process control block' (PCB) in process management.",
+    "options": [
+      "Stores the process's program counter value",
+      "Contains information about the process state and resources",
+      "Manages the process's input/output operations",
+      "Executes system calls for the process"
+    ],
+    "correctAnswer": "Contains information about the process state and resources",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the role of the 'ready queue' in process scheduling?",
+    "options": [
+      "Stores processes waiting for I/O operations",
+      "Stores processes waiting for CPU time",
+      "Manages processes in the blocked state",
+      "Executes processes in the running state"
+    ],
+    "correctAnswer": "Stores processes waiting for CPU time",
+    "category": "Operating System"
+  },
+  {
+    "question": "Define the term 'process state' in the context of process management.",
+    "options": [
+      "The current execution point of the process",
+      "The total time taken by a process",
+      "The position of the process in the ready queue",
+      "The condition of the process at a specific point in time"
+    ],
+    "correctAnswer": "The condition of the process at a specific point in time",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the purpose of the 'process table' in the operating system?",
+    "options": [
+      "Stores information about file systems",
+      "Manages memory allocation for processes",
+      "Contains information about the process state and resources",
+      "Executes system calls for the process"
+    ],
+    "correctAnswer": "Contains information about all active processes, including their state and resources",
+    "category": "Operating System"
+  },
+  {
+    "question": "Explain the concept of 'starvation' in the context of process scheduling.",
+    "options": [
+      "A process holding a resource indefinitely",
+      "A process being unable to acquire the CPU",
+      "A process being unable to release a resource",
+      "A process being terminated prematurely"
+    ],
+    "correctAnswer": "A process being unable to acquire the CPU",
+    "category": "Operating System"
+  },{
+    "question": "What is the purpose of memory management in an operating system?",
+    "options": [
+      "To manage the allocation and deallocation of memory",
+      "To manage the execution of processes",
+      "To manage the input/output operations",
+      "To manage the file systems"
+    ],
+    "correctAnswer": "To manage the allocation and deallocation of memory",
+    "category": "Operating System"
+  },
+  {
+    "question": "Explain the difference between 'logical address' and 'physical address' in memory management.",
+    "options": [
+      "Logical address is the address generated by the CPU, and physical address is the actual location in memory",
+      "Physical address is the address generated by the CPU, and logical address is the actual location in memory",
+      "Logical address is the address used for file systems, and physical address is used for process execution",
+      "Physical address is the address used for file systems, and logical address is used for process execution"
+    ],
+    "correctAnswer": "Logical address is the address generated by the CPU, and physical address is the actual location in memory",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is a 'page table' in the context of virtual memory?",
+    "options": [
+      "A table that maps logical addresses to physical addresses",
+      "A table that stores information about the file system",
+      "A table that manages process scheduling",
+      "A table that stores information about CPU registers"
+    ],
+    "correctAnswer": "A table that maps logical addresses to physical addresses",
+    "category": "Operating System"
+  },
+  {
+    "question": "Explain the purpose of 'paging' as a memory management technique.",
+    "options": [
+      "Dividing physical memory into fixed-size blocks",
+      "Swapping entire processes in and out of memory",
+      "Allocating contiguous memory blocks to processes",
+      "Managing input/output operations"
+    ],
+    "correctAnswer": "Dividing physical memory into fixed-size blocks",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is a 'segmentation fault' in the context of memory management?",
+    "options": [
+      "An error that occurs when dividing memory into segments",
+      "An error caused by incorrect usage of pointers",
+      "An error related to input/output operations",
+      "An error in the CPU's memory management unit"
+    ],
+    "correctAnswer": "An error caused by incorrect usage of pointers",
+    "category": "Operating System"
+  },
+  {
+    "question": "Explain the concept of 'fragmentation' in memory management.",
+    "options": [
+      "The division of memory into fixed-size blocks",
+      "The process of combining memory blocks into larger blocks",
+      "The occurrence of unused memory gaps in the address space",
+      "The allocation of memory to processes"
+    ],
+    "correctAnswer": "The occurrence of unused memory gaps in the address space",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is 'thrashing' in the context of virtual memory systems?",
+    "options": [
+      "Excessive page swapping, reducing system performance",
+      "Efficient memory utilization",
+      "Optimal page replacement",
+      "Speeding up disk access"
+    ],
+    "correctAnswer": "Excessive page swapping, reducing system performance",
+    "category": "Operating System"
+  },
+  {
+    "question": "Explain the purpose of the 'demand paging' technique in virtual memory systems.",
+    "options": [
+      "Swapping entire processes in and out of memory",
+      "Loading pages into memory only when needed",
+      "Allocating contiguous memory blocks to processes",
+      "Dividing physical memory into fixed-size blocks"
+    ],
+    "correctAnswer": "Loading pages into memory only when needed",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the role of the 'TLB' (Translation Lookaside Buffer) in memory management?",
+    "options": [
+      "Stores copies of frequently used pages",
+      "Manages input/output operations",
+      "Stores information about the file system",
+      "Speeds up the translation of logical addresses to physical addresses"
+    ],
+    "correctAnswer": "Speeds up the translation of logical addresses to physical addresses",
+    "category": "Operating System"
+  },
+  {
+    "question": "Explain the purpose of 'virtual memory' in operating systems.",
+    "options": [
+      "To provide an isolated environment for virtual machines",
+      "To expand the available memory beyond the physical RAM",
+      "To manage input/output operations",
+      "To store files and directories"
+    ],
+    "correctAnswer": "To expand the available memory beyond the physical RAM",
+    "category": "Operating System"
+  },{
+    "question": "What is a 'deadlock' in the context of operating systems?",
+    "options": [
+      "A situation where a process is terminated unexpectedly",
+      "A condition where two or more processes are unable to proceed because each is waiting for the other",
+      "A mechanism to prevent data corruption in shared memory",
+      "A technique to handle process synchronization"
+    ],
+    "correctAnswer": "A condition where two or more processes are unable to proceed because each is waiting for the other",
+    "category": "Operating System"
+  },
+  {
+    "question": "Explain the concept of 'process synchronization' in operating systems.",
+    "options": [
+      "Ensuring that processes run in parallel without coordination",
+      "Coordinating the execution of multiple processes to avoid conflicts",
+      "Terminating processes to prevent synchronization issues",
+      "Assigning unique identifiers to each process"
+    ],
+    "correctAnswer": "Coordinating the execution of multiple processes to avoid conflicts",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is a 'critical section' in the context of synchronization?",
+    "options": [
+      "A section of code that is not executed by any process",
+      "A section of code that must be executed atomically",
+      "A process that has high priority",
+      "A section of code that is prone to deadlocks"
+    ],
+    "correctAnswer": "A section of code that must be executed atomically",
+    "category": "Operating System"
+  },
+  {
+    "question": "Explain the purpose of 'semaphores' in process synchronization.",
+    "options": [
+      "To terminate processes that violate synchronization rules",
+      "To manage input/output operations",
+      "To signal the availability of resources",
+      "To control access to critical sections in concurrent programs"
+    ],
+    "correctAnswer": "To control access to critical sections in concurrent programs",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the role of 'mutex' (mutual exclusion) in synchronization?",
+    "options": [
+      "To allow multiple processes to access critical sections simultaneously",
+      "To ensure that only one process can access a critical section at a time",
+      "To terminate processes in case of a deadlock",
+      "To synchronize processes in a circular manner"
+    ],
+    "correctAnswer": "To ensure that only one process can access a critical section at a time",
+    "category": "Operating System"
+  },
+  {
+    "question": "Explain the concept of 'starvation' in the context of synchronization.",
+    "options": [
+      "A process stuck in a deadlock state",
+      "A process waiting indefinitely for a resource",
+      "A process with low priority receiving resources ahead of higher-priority processes",
+      "A process accessing a critical section"
+    ],
+    "correctAnswer": "A process waiting indefinitely for a resource",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is 'resource allocation graph' in deadlock handling?",
+    "options": [
+      "A graphical representation of process execution",
+      "A graph showing the allocation of resources to processes",
+      "A graph representing dependencies among processes",
+      "A graph illustrating processes stuck in a deadlock"
+    ],
+    "correctAnswer": "A graph showing the allocation of resources to processes",
+    "category": "Operating System"
+  },
+  {
+    "question": "Explain the 'Banker's algorithm' for deadlock avoidance.",
+    "options": [
+      "A financial algorithm for managing system budgets",
+      "An algorithm that prevents deadlocks by checking resource allocation before granting a request",
+      "An algorithm for sorting processes based on priority",
+      "An algorithm for selecting the next process to execute"
+    ],
+    "correctAnswer": "An algorithm that prevents deadlocks by checking resource allocation before granting a request",
+    "category": "Operating System"
+  },
+  {
+    "question": "What is the purpose of the 'wait' and 'signal' operations in process synchronization?",
+    "options": [
+      "To wait for a process to terminate",
+      "To synchronize input/output operations",
+      "To wait for a signal from an external source",
+      "To synchronize the execution of processes by allowing them to wait and signal each other"
+    ],
+    "correctAnswer": "To synchronize the execution of processes by allowing them to wait and signal each other",
+    "category": "Operating System"
+  },
+  {
+    "question": "Explain the concept of 'condition variables' in synchronization.",
+    "options": [
+      "Variables used to store process identifiers",
+      "Variables that store conditions for deadlock",
+      "Variables used to store process priority",
+      "Variables that allow processes to wait for a particular condition to become true"
+    ],
+    "correctAnswer": "Variables that allow processes to wait for a particular condition to become true",
+    "category": "Operating System"
+  }
+
+
+
+
+
+
+
+  ]
+}
+

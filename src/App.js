@@ -1,23 +1,43 @@
-import logo from './logo.svg';
 import './App.css';
+// import quiz from './data.json'
+import Quiz from './component/quiz'
+import NavBar from './component/NavBar';
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  Link
+} from "react-router-dom";
+import About from './component/About';
+import Home from './component/Home';
+
 
 function App() {
+
+  //to check
+  // const check = ()=>{
+  //   console.log(quiz.length)
+    // quiz.forEach(element => {
+    //   console.log(element)
+    // });
+  // }
+
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Router>
+      <NavBar />
+      <Routes>
+        <Route path="/" element = {<Home key ="home"/>}></Route>
+          <Route path="/about" element ={<About />}></Route>
+           {/* key ="webdevelopment" category="Web Development" */}
+          <Route path="/webdevelopment" element ={<Quiz key='webdevlopment' category='Web Development' />} exact></Route>
+          <Route path="/computernetworks" element ={<Quiz key='computernetwork' category='Computer Network' />} exact></Route>
+          <Route path="/operatingsystem" element ={<Quiz key='operatingsystem' category='Operating System' />} exact></Route>
+      </Routes>
+
+
+      </Router>
     </div>
   );
 }
