@@ -1,11 +1,11 @@
 
 import React, { useState , useEffect} from 'react';
-import Data from '../data.json';
+import questiondata from '../data.json';
 import QuizQuestion from './QuizQuestion';
 import { Link } from 'react-router-dom';
 import Result from './Result';
 
-Data =Data.quiz
+const Data =questiondata.quiz
 
 const SelectRandomQuestions = (category) => {
   const Questions = Data.filter(question => question.category === category);
